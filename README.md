@@ -1,11 +1,11 @@
 
-# 🌐 Personal Portfolio - Deepak Chaurasiya
+# 🌐 Personal Portfolio - Aditya Patel
 
 Welcome to my personal portfolio website!  
 This project showcases my skills, projects, and experience as a **Full-Stack Developer, Java Programmer, and AI Enthusiast**.
 
-🔗 **Live Demo:** [my-portfolio-z32j.onrender.com](https://my-portfolio-z32j.onrender.com/)  
-📂 **Repository:** [GitHub Repo](https://github.com/deep74ap/My_Portfolio)
+🔗 **Live Demo:** [my-portfolio-z32j.onrender.com](https://aditya-portfolio-9vta.onrender.com/)  
+📂 **Repository:** [GitHub Repo](https://github.com/Adi1490tya/My_Portfolio)
 
 ---
 
